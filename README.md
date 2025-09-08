@@ -1,5 +1,8 @@
 # MWAD-EX_03-To-Do-List-using-JavaScript
-## Date:
+## Date: 08.09.2025
+
+# Developed By : ADITYAH M S
+# Register.No : 212223220002
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
@@ -35,7 +38,14 @@ Deploy the website.
 ### STEP 10
 Upload to GitHub Pages for free hosting.
 
-## PROGRAM
+## PROGRAM :
+
+# HTML:
+
+
+
+# CSS:
+
 
 
 ## OUTPUT
